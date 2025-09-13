@@ -13,4 +13,5 @@ const Fruites = () => {
   );
 }
 
-export default Fruites;
+export default Fruites
+
